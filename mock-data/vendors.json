@@ -1,0 +1,14 @@
+[
+  {
+    "id": "studio-elite",
+    "name": "Studio Elite",
+    "category": "photo-studios",
+    "rating": 4.7,
+    "services": ["Wedding Photography", "Candid Shoots"],
+    "portfolio": ["/images/studio1.jpg", "/images/studio2.jpg"],
+    "reviews": [
+      {"user": "Ankit", "rating": 5, "comment": "Excellent work!"},
+      {"user": "Priya", "rating": 4.5, "comment": "Loved the album quality."}
+    ]
+  }
+]
