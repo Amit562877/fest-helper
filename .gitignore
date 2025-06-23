@@ -1,0 +1,53 @@
+# Node.js
+node_modules
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Next.js build output
+.next
+out
+
+# Next.js cache
+.cache
+.next/cache
+
+# Environment variables
+.env
+.env.*.local
+
+# Log files
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode
+.idea
+*.sublime-project
+*.sublime-workspace
+
+# Mac system files
+Icon?
+
+# Optional: local development tools
+coverage/
+playwright-report/
+cypress/screenshots/
+cypress/videos/
+
+# Optional: TypeScript build artifacts
+*.tsbuildinfo
+
+# Optional: compiled Tailwind output if separated
+public/tailwind.css
+
+# Optional: local Firebase emulators
+firebase-debug.log
+.firebaserc.local
+
+# Optional: next export artifacts
+exported-static/
