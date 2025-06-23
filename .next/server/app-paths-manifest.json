@@ -1,8 +1,9 @@
 {
-  "/_not-found": "app/_not-found.js",
+  "/(vendors)/vendors/photo-studios/page": "app/(vendors)/vendors/photo-studios/page.js",
+  "/page": "app/page.js",
+  "/(vendors)/vendors/djs/page": "app/(vendors)/vendors/djs/page.js",
+  "/(vendors)/vendors/caterers/page": "app/(vendors)/vendors/caterers/page.js",
+  "/(vendors)/vendors/decorators/page": "app/(vendors)/vendors/decorators/page.js",
   "/auth/signup/page": "app/auth/signup/page.js",
-  "/auth/forgot-password/page": "app/auth/forgot-password/page.js",
-  "/auth/login/page": "app/auth/login/page.js",
-  "/dashboard/profile/page": "app/dashboard/profile/page.js",
-  "/page": "app/page.js"
+  "/auth/login/page": "app/auth/login/page.js"
 }
