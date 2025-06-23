@@ -8,7 +8,8 @@ pnpm-debug.log*
 # Next.js build output
 .next
 out
-
+# Or to ignore entire .next folder (recommended)
+.next/
 # Next.js cache
 .cache
 .next/cache
