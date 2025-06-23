@@ -3,7 +3,7 @@ import React from 'react';
 import { useFormik } from 'formik';
 import * as Yup from 'yup';
 
-const VendorProfileForm = () => {
+const VendorProfileForm = ({ profile }: any) => {
   const formik = useFormik({
     initialValues: {
       name: '',
