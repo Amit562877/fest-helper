@@ -2,10 +2,8 @@
 import React from 'react';
 import { useFormik } from 'formik';
 import * as Yup from 'yup';
-type ProfilePageProps = {
-  profile: any;  // replace 'any' with your actual type if possible
-};
-const VendorProfileForm = ({ profile }: ProfilePageProps) => {
+
+const VendorProfileForm = () => {
   const formik = useFormik({
     initialValues: {
       name: '',

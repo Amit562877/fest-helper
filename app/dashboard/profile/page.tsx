@@ -12,7 +12,7 @@ export default function ProfilePage() {
 
   return (
     <div className="mx-auto">
-      {profile && <ProfileForm profile={profile} />}
+      { <ProfileForm />}
     </div>
   );
 }
