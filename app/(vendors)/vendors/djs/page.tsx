@@ -21,7 +21,7 @@ const djs: DJ[] = [
   },
   {
     id: 2,
-    name: 'Beat Master',
+    name: 'Beat Masters',
     rating: 9.5,
     location: 'Los Angeles, CA',
     imageUrl: 'https://picsum.photos/id/1006/600/400',
